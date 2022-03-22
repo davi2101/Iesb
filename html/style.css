@@ -1,0 +1,15 @@
+h1,h2{
+    color: red;
+    text-align: center;
+    border: 5px dotted black;
+    padding: 20px;
+}
+
+p {
+    text-align: justify;
+    text-indent: 50px;
+    padding: 20px;
+    text-transform: unset;
+    margin: 20px;
+    border: 1px red solid;
+}
